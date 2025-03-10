@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I graduated from GLBITM in ECE, GREATER NOIDA.<br>🌱 I’m currently focusing on DSA.<br>📙 In my free time, I love reading quotes & books.<br>🤝 I’m eager to know about opportunities which will help me in expanding my potential.<br>📫 How to reach me: anujyadav91188@gmail.com<br>⚡ Fun fact I love to know about people and their stories.
+👨‍🎓 I graduated from GLBITM in ECE, GREATER NOIDA.<br>🌱 I’m currently focusing on Backend Development with Python, Django, Rest.<br>📙 In my free time, I love reading quotes & books.<br>🤝 I’m eager to know about opportunities which will help me in expanding my potential.<br>📫 How to reach me: anujyadav91188@gmail.com<br>⚡ Fun fact I love to know about people and their stories.
 
 
 ## 🌐 Socials:
